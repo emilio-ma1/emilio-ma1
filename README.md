@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Emilio%20Maturana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computing%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+robust+server-side+architectures+%F0%9F%94%A7;Exploring+AI+%26+fine-tuning+local+LLMs+%F0%9F%A4%96;Designing+scalable+full-stack+solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Building+robust+server-side+architectures+%F0%9F%94%A7;Exploring+AI+%26+fine-tuning+local+LLMs+%F0%9F%A4%96;Designing+scalable+full-stack+solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
