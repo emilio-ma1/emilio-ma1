@@ -123,25 +123,7 @@ Desarrollo web con **HTML, CSS y JavaScript** puro, así como aplicaciones con *
 
 </div>
 
-<br>
 
-## 📈 GitHub Stats
-
-<div align="center">
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilio-ma1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio-ma1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emilio-ma1&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emilio-ma1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=c9d1d9&area=true&area_color=8B5CF6" alt="Activity Graph" width="95%" />
-
-</div>
-
-<br>
 
 ## 🌍 Languages I Speak
 
